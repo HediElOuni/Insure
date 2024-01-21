@@ -18,7 +18,7 @@
 ### Links
 
 - Solution URL: https://github.com/HediElOuni/LandingPage
-- Live Site URL: 
+- Live Site URL: https://hedielouni.github.io/LandingPage/
 
 ## My process
 
