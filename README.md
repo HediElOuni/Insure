@@ -1,4 +1,4 @@
-# LandingPage
+# Insure
 
 ## Table of contents
 
